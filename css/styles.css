@@ -1,3 +1,19 @@
+em {
+  color: red;
+}
+
+body {
+  line-height: 2em;
+  text-align: center;
+  font-style: normal;
+  font-weight: bolder;
+
+
+}
+
 h1 {
-  color: blue;
+  color: red;
+  font-family: fantasy;
+  font-size: 30px;
+  
 }
